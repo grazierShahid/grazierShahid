@@ -1,15 +1,36 @@
 # 💫 About Me:
 Hello, I’m **Shahid Hasan** — Software Engineer | Independent Security Researcher.<br><br>
 
-🔭 I’m currently working on real-time ad delivery systems.<br>
+👋 Hello, I’m **Md Shahid Hasan** — Software Engineer | Security Researcher.<br><br>
 
-👯 I’m looking to collaborate on backend and AI SaaS tools.<br>
+**experience:**  
+- Building real-time ad pipelines at **Purple Patch** (AdTech).  
+- Helped migrate a real-life **AI SaaS** from monolith to microservices at **AffPilot**.  
+- **Led programming sessions** at Green University of Bangladesh.  
+- **Problem Setter** at GUB Intra-University Programming Contests.  
+- Skilled in **Go, Python, FastAPI, Django, Docker, PostgreSQL, Redis, RabbitMQ, gRPC, Protobuf**, and more.<br><br>
 
-🤝 I’m looking for help with scalable system design.<br>
+**achievements:**  
+- Participated in **ACM ICPC Dhaka Regional (2021–2023)**.  
+- Competed in **7× Inter-University Programming Contests (IUPC)**.  
+- **2× Champion**, **3× Top-3 finishes** at GUB contests.<br><br>
 
-🌱 I’m currently learning design patterns, system design, cybersecurity, Linux, and networking fundamentals.<br>
+**problem solving:**  
+- Solved **1500+ problems** across multiple online judges.  
+- Profiles:  
+  [Codeforces](https://codeforces.com/profile/grazier) •  
+  [LeetCode](https://leetcode.com/u/grazierShahid/) •  
+  [CodeChef](https://www.codechef.com/users/grazier_shahid) •  
+  [HackerRank](https://www.hackerrank.com/profile/shaahid_cse) •  
+  [LightOJ](https://lightoj.com/user/grazier) •  
+  [VJudge](https://vjudge.net/user/grazier) •  
+  [UVa](https://uhunt.onlinejudge.org/id/1060025)<br><br>
 
-💬 Ask me about backend, microservices, or system optimization.<br>
+**additional:**  
+- I love writing — technical blogs on [Medium](https://medium.com/@shaahid.cse), and poems & stories on [Blogspot](https://grazierscanvas.blogspot.com/).  
+- Currently learning **security research**, focusing on **OWASP Top 10**, **bug hunting**.  
+- Enjoy **walking, cycling**, and exploring the world. 🌍<br><br>
+
 
 
 ## 🌐 Socials:
