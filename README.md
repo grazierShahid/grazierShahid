@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I’m **Shahid Hasan** <br> Software Engineer | Independent Security Researcher.<br><br>
+Hello, I’m **Shahid Hasan** — Software Engineer | Independent Security Researcher.<br><br>
 
 🔭 I’m currently working on real-time ad delivery systems.<br>
 
@@ -10,8 +10,6 @@ Hello, I’m **Shahid Hasan** <br> Software Engineer | Independent Security Rese
 🌱 I’m currently learning design patterns, system design, cybersecurity, Linux, and networking fundamentals.<br>
 
 💬 Ask me about backend, microservices, or system optimization.<br>
-
-⚡ Fun fact: I debug race conditions like solving puzzles. 🧠⚙️
 
 
 ## 🌐 Socials:
