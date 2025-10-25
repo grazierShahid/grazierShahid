@@ -1,22 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>
-Building real-time ad delivery and data pipelines at **Purple Patch**, focusing on scalable backend systems and transparency in programmatic advertising.<br><br>
+Hello, I’m **Shahid Hasan** <br> Software Engineer | Independent Security Researcher.<br><br>
 
-👯 I’m looking to collaborate on  <br>
-Open-source **backend infrastructure**, **AI-powered SaaS tools**, and **developer utilities** involving FastAPI, Golang, and distributed systems.<br><br>
+🔭 I’m currently working on real-time ad delivery systems.<br>
 
-🤝 I’m looking for help with  <br>
-Advanced **system design**, **observability**, and **large-scale architecture patterns** to make my open-source projects more production-grade.<br><br>
+👯 I’m looking to collaborate on backend and AI SaaS tools.<br>
 
-🌱 I’m currently learning  <br>
-**Cybersecurity**, **bug bounty techniques**, **Linux internals**, and **networking fundamentals** — while improving my expertise in **microservices** and **real-time systems**.<br><br>
+🤝 I’m looking for help with scalable system design.<br>
 
-💬 Ask me about  <br>
-**Backend engineering**, **microservices migration (Django → FastAPI/Golang)**, **message brokers**, **gRPC**, **PostgreSQL optimization**, or **competitive programming**.<br><br>
+🌱 I’m currently learning design patterns, system design, cybersecurity, Linux, and networking fundamentals.<br>
 
-⚡ Fun fact  <br>
-I started as a competitive programmer (ICPC, IUPC), still love debugging tricky race conditions like solving algorithmic puzzles 🧠⚙️
+💬 Ask me about backend, microservices, or system optimization.<br>
 
+⚡ Fun fact: I debug race conditions like solving puzzles. 🧠⚙️
 
 
 ## 🌐 Socials:
