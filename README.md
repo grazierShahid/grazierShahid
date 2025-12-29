@@ -1,9 +1,10 @@
 # 💫 About Me:
-Hello, I’m **Shahid Hasan** — Software Engineer | Independent Security Researcher.<br><br>
+Hello, I’m **Shahid Hasan** — Software Engineer | Security Researcher.<br><br>
 
 👋 Hello, I’m **Md Shahid Hasan** — Software Engineer | Security Researcher.<br><br>
 
 **experience:**  
+- Security Researcher at [Hidden Investigations](https://hiddeninvestigations.net/team)
 - Building real-time ad pipelines at **Purple Patch** (AdTech).  
 - Helped migrate a real-life **AI SaaS** from monolith to microservices at **AffPilot**.  
 - **Led programming sessions** at Green University of Bangladesh.  
