@@ -1,6 +1,4 @@
 # 💫 About Me:
-Hello, I’m **Shahid Hasan** — Software Engineer | Security Researcher.<br><br>
-
 👋 Hello, I’m **Md Shahid Hasan** — Software Engineer | Security Researcher.<br><br>
 
 **experience:**  
