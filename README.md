@@ -3,8 +3,8 @@
 
 **experience:**  
 - Security Researcher at [Hidden Investigations](https://hiddeninvestigations.net/team)
-- Building real-time ad pipelines at **Purple Patch** (AdTech).  
-- Helped migrate a real-life **AI SaaS** from monolith to microservices at **AffPilot**.  
+- Building real-time ad pipelines at [Purple Patch (AdTech)](https://purplepatch.online/).  
+- Helped migrate a real-life **AI SaaS** from monolith to microservices at [AffPilot](https://affpilot.com/).  
 - **Led programming sessions** at Green University of Bangladesh.  
 - **Problem Setter** at GUB Intra-University Programming Contests.  
 - Skilled in **Go, Python, FastAPI, Django, Docker, PostgreSQL, Redis, RabbitMQ, gRPC, Protobuf**, and more.<br><br>
